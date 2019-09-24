@@ -1,0 +1,9 @@
+*.o
+*.user
+*.autosave
+*~
+moc_*
+*.stash
+ui_*
+noweffects
+Makefile
